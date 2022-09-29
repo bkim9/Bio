@@ -1,11 +1,11 @@
 # Beomsu's Page
 ## About Me
 > This is a quote
-- [x] I am really good looking
+- [x] I like challenging myself
 - [ ] I am good at programming
 - [ ] I am ready for the class
 
-Hello I am Beomsu Kim. I am a CE major in CSE department at UCSD. I will walk you through about myself with this site. I love tresleches cake. I want to make it some day. 
+Hello I am Beomsu Kim. I am a CE major in CSE department at UCSD. I will walk you through about myself with this site. I love tresleches cake. I want to make it some day. I like challenging myself to test limits.
 
 I love [powershell](README.md)
 In powershell, I can get content of a file with the command `Get-Content`, `get-content`, or even `gc`.
