@@ -1,4 +1,4 @@
-# CSE110HW0
-[Beomsu's User Page](https://bkim9.github.io/CSE110HW0/)
+# Bio
+[Beomsu's User Page](https://bkim9.github.io/Bio/)
 
 I love powershell
